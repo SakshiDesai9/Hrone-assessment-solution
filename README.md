@@ -4,7 +4,7 @@ FastAPI + MongoDB. All code is in `app/main.py`.
 
 ## Run
 
-Needs Python 3.12+ and MongoDB 6.0+.
+Needs Python 3.11+ and MongoDB 6.0+.
 
 ```bash
 pip install -r requirements.txt
